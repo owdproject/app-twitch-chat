@@ -10,7 +10,7 @@
 
 ## Overview
 
-This app for Open Web Desktop implements Twitch livestreams chat.
+This app for Open Web Desktop implements the Twitch chat.
 
 ## Installation
 
